@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FireBall
+  - Ground
+  - MagicMushroom
+  - Water
+  - Test
+  - PlayerWater
+  - FloatingPlatform
+  - Spring
+  - LiftDownFix
+  - FireBallBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - PowerUp
+  - Enemy
+  - Shell
+  - FireBall
+  - Test
+  - PlayerWater
+  - Ground
+  - DeathBarrier
+  - Shell
+  - EnemyBarrier
+  - Trap
+  - Blooper
+  - CheepCheep
+  - Blockblock
+  - Axe
+  - FakeBowser
+  - FireBallBar
+  - FireBob
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1683316717
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
